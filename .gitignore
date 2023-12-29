@@ -163,3 +163,6 @@ vbx_duration_model.pth
 gen_619k.pth
 gen_630k.pth
 vbx_phone_set.json
+phone_set.json
+
+.idea
